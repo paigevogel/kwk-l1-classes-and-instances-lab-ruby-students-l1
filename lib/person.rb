@@ -9,4 +9,5 @@ class Person
   end
 end 
 
-person1 = Person.new("Adele Goldberg", "")
+person1 = Person.new("Adele Goldberg", "Female", "Computer Scientist")
+person2 = Person.new("Alan Kay", "")

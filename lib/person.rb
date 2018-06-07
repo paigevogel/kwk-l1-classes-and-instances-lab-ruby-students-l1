@@ -7,3 +7,6 @@ class Person
     @gender=gender
     @job=job
   end
+end 
+
+person1

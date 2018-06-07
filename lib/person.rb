@@ -10,4 +10,6 @@ class Person
 end 
 
 person1 = Person.new("Adele Goldberg", "Female", "Computer Scientist")
-person2 = Person.new("Alan Kay", "")
+person2 = Person.new("Alan Kay", "Male", "Computer Scientist")
+
+puts person1.job
